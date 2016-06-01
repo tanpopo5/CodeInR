@@ -1,0 +1,9 @@
+*.class
+*.docx
+*.txt
+*.png
+*.jpg
+*.pdf
+*.html
+*.Rmd
+test/
